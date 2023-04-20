@@ -1,1 +1,1 @@
-# GANs-on-CIFAR-10
+# Training GANs with limited data from CIFAR-10
